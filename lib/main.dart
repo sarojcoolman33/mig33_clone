@@ -49,3 +49,7 @@ class LoginScreen extends StatelessWidget {
     );
   }
 }
+void main() {
+  // Trigger GitHub Action
+  runApp(MyApp());
+}
